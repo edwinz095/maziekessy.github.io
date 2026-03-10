@@ -1,0 +1,28 @@
+Css id="x2hj1p"
+
+/* Basic styling for portfolio */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h1 {
+  color: #0d6efd;
+  margin-top: 50px;
+}
+button#greetBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+button#greetBtn:hover {
+  background-color: #0056b3;
+}
